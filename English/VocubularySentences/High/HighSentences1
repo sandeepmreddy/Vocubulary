@@ -16,5 +16,6 @@ Is that volume feasible to load in prod
 10.	It is a pair programmer
 11.	We will get the most out of it
 12.	When developing software, it's crucial to test for edge cases to ensure the application can handle unexpected or extreme input scenarios.
-13.This allows the consumer to resume processing from where it left off, even if it was restarted.
-"We will start working on it from where we left off."
+13. This allows the consumer to resume processing from where it left off, even if it was restarted.
+14. We will start working on it from where we left off.
+15. Your statement is a bit vague.
